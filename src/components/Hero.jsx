@@ -1,4 +1,4 @@
-const WA_LINK = 'https://wa.me/5511999999999?text=Ol%C3%A1%20Deborah%2C%20vim%20pelo%20seu%20site%20e%20quero%20agendar%20minha%20sess%C3%A3o%20de%20reprograma%C3%A7%C3%A3o'
+const WA_LINK = 'https://wa.me/558198760387?text=Ol%C3%A1%20Deborah%2C%20vim%20pelo%20seu%20site%20e%20quero%20agendar%20minha%20sess%C3%A3o%20de%20reprograma%C3%A7%C3%A3o'
 
 const css = `
 @keyframes aurora-1 {

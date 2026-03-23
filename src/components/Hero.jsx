@@ -32,7 +32,7 @@ export default function Hero() {
         <span style={{ fontFamily: 'var(--font-display, serif)', color: '#C8883A', fontSize: '1.1rem', fontStyle: 'italic' }}>
           Deborah Costa
         </span>
-        <a href={WA_LINK} target="_blank" rel="noopener noreferrer" className="btn-shimmer" style={{ fontSize: '0.8rem' }}>
+        <a href={WA_LINK} target="_blank" rel="noopener noreferrer" style={{display:"inline-block",background:"#C8883A",color:"#FAFAF8",fontFamily:"Inter,sans-serif",fontWeight:600,fontSize:"14px",letterSpacing:"0.08em",textTransform:"uppercase",padding:"16px 36px",borderRadius:"4px",textDecoration:"none",cursor:"pointer",boxShadow:"0 4px 20px rgba(200,136,58,0.3)",transition:"all 0.3s ease"}} style={{ fontSize: '0.8rem' }}>
           Agendar sessão
         </a>
       </header>
@@ -87,7 +87,7 @@ export default function Hero() {
 
             {/* CTA */}
             <div style={{ opacity: 0, animation: 'fadeUp 0.8s ease forwards', animationDelay: '0.45s' }}>
-              <a href={WA_LINK} target="_blank" rel="noopener noreferrer" className="btn-shimmer">
+              <a href={WA_LINK} target="_blank" rel="noopener noreferrer" style={{display:"inline-block",background:"#C8883A",color:"#FAFAF8",fontFamily:"Inter,sans-serif",fontWeight:600,fontSize:"14px",letterSpacing:"0.08em",textTransform:"uppercase",padding:"16px 36px",borderRadius:"4px",textDecoration:"none",cursor:"pointer",boxShadow:"0 4px 20px rgba(200,136,58,0.3)",transition:"all 0.3s ease"}}>
                 Quero agendar minha sessão
               </a>
             </div>
